@@ -51,7 +51,7 @@ This is a simple c++ program for solving sudoku using multi-threaded programming
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## ⚡ How it works
+## ⚡ How It Works
 - this code must be run in linux operating system
 ```c++
 g++ -std=c++11 -pthread main.cpp -o output
@@ -59,7 +59,7 @@ g++ -std=c++11 -pthread main.cpp -o output
 ./output
 ```
 - add your sudoku in `sudoku.txt` 
-- run you see the solved sudoku!!
+- run and you'll see your sudoku is sloved!!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
